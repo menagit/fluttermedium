@@ -17,4 +17,4 @@ yours once you clone the repo.
 
 ### Post Reference
 
-[https://emenaa.medium.com/flutter-geolocalization-with-firebase-2c920e0e8570](https://emenaa.medium.com/flutter-geolocalization-with-firebase-2c920e0e8570)
+[https://emenaa.medium.com/flutter-firebase-and-google-maps-2c920e0e8570](https://emenaa.medium.com/flutter-firebase-and-google-maps-2c920e0e8570)
